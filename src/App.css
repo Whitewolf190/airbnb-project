@@ -1,0 +1,7 @@
+.parent-cont{
+  width: 100vw;
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  gap: 20px 0px;
+
+}
